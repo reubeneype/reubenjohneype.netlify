@@ -1,0 +1,29 @@
+.side-header{
+    background-color: #00d49f;
+    color: #000000;
+    height: 100vh;
+    font-family:monospace;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+}
+
+.pic{
+    border-radius:50%;
+    height: 150px;
+    width: 150px;
+    anign-self:center;
+    box-shadow: #2a3033 2px 5px 5px;
+}
+.side-header-content{
+    margin: 10px;
+}
+
+body{
+    margin:0;
+}
+.project-link{
+    color: #000000;
+
+}
